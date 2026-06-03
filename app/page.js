@@ -79,7 +79,7 @@ export default function Home() {
   return (
     <div style={{ padding: "40px", fontFamily: "'Segoe UI', Roboto, sans-serif", backgroundColor: "#0f172a", color: "#f8fafc", minHeight: "100vh" }}>
       
-      {/* 🔄 อัปเดตส่วนหัวเป็น Ion Storage Power */}
+      {/* 🛠️ เปลี่ยนเป็น Ion Storage Power ตรงนี้เรียบร้อยครับ */}
       <div style={{ borderBottom: "1px solid #334155", paddingBottom: "20px", marginBottom: "30px" }}>
         <h1 style={{ fontSize: "28px", color: "#38bdf8", margin: 0 }}>🎛️ Ion Storage Power & VFD Global Fleet Management</h1>
         <p style={{ color: "#94a3b8", margin: "5px 0 0 0" }}>ระบบบริหารจัดการและตั้งค่าออนไลน์ รองรับการขยายตัว 100,000 เครื่อง</p>
